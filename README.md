@@ -31,6 +31,6 @@ pip install -r requirements.txt
 ## Directions to run
 - Run the following command in the project directory:
 ```
-python txttohandwriting.py
+python ScannedImages-to-PDF.py
 ```
 
