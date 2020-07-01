@@ -19,7 +19,7 @@
 ## Installing required python dependencies
 - Clone this repository onto your system
 ```bash
-git clone https://github.com/sharanya02/Text-file-to-handwritten-pdf-file
+git clonehttps://github.com/tanishqyadav/Text-to-Handwriting-converter
 ```
 - Then, create a virtual environment and install the packages from requirements.txt.
 ```bash
